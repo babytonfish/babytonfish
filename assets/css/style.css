@@ -11182,7 +11182,7 @@ Mainmenu Area
     width: 320px;
     z-index: 999;
     position: absolute;
-    background-color: #fff;
+    background-color: #000000;
     height: 100%;
     height: 100vh;
     display: flex;
@@ -11260,7 +11260,7 @@ Mainmenu Area
 .rn-popup-mobile-menu ul.mainmenu li a {
     font-size: 16px;
     font-weight: 500;
-    color: #1f1f25;
+    color: #fcfcfc;
 }
 
 .rn-popup-mobile-menu ul.mainmenu li.has-droupdown {
